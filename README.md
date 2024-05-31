@@ -12,6 +12,14 @@ Creating Scripts with K6. We can identify scripts that contains assertions, resp
 
 Using parameters with K6. We can found simple examples of random (string, item, sleep, array) functions and how to use external JSON & CSV
 
+### 🔗 Tool Links
+
+- [Grafana K6 Cloud](https://grafana.com/products/cloud/k6/)
+
+- [Mocky](https://designer.mocky.io/)
+
+- [Grafana k6 REST and WS Play](https://test-api.k6.io/)
+
 ### ⚙️ Execution
 
 
