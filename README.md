@@ -20,6 +20,24 @@ Using parameters with K6. We can found simple examples of random (string, item, 
 
 - [Grafana k6 REST and WS Play](https://test-api.k6.io/)
 
-### ⚙️ Execution
+### ⚙️ Execution commands
+
+If you want to execute one test locally:
+
+```sh
+  k6 run ./script.js
+```
+
+If you want to execute one test locally and debug:
+
+```sh
+  k6 run --http-debug=full script.js
+```
+
+If you want to execute one test locally and export the results to the cloud:
+
+```sh
+  k6 run script.js -o cloud
+```
 
 
